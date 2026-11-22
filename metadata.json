@@ -1,0 +1,8 @@
+{
+  "name": "Dunwell Clinic IT Growth Plan & CRM Demo",
+  "description": "Strategic IT expansion presentation and live interactive demo of the B2B Occupational Health CRM, Corporate Incident Dispatch Portal, and Youth Digital Access platform for Dunwell Youth Priority Clinic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
